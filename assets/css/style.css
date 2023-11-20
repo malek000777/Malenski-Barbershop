@@ -18,7 +18,7 @@ h3 {
     background-color: #ffffff;
 }
 
-/* navigation links menu */
+/*navigation links menu*/
 .topmenu {
     text-align: center;
 }
@@ -35,7 +35,7 @@ h3 {
     color: rgb(138, 130, 130);
 }
 
-/*  for small screen size max-width 600px and down */
+/*for small screen size max-width 600px and down*/
 @media (max-width: 600px) {
     .topmenu a {
         font-size: 100%;
@@ -68,6 +68,14 @@ h3 {
     border-radius: 6px;
 }
 
+/*hero text on for small screen*/
+@media (max-width: 600px) {
+    #hero-t {
+        top: 27%;
+    }
+}
+
+
 /*information*/
 .info {
     text-align: center;
@@ -76,7 +84,7 @@ h3 {
     color: #727272;
 }
 
-/* image for hair and beard*/
+/*image for hair and beard*/
 img {
     width: 400px;
     border-radius: 8px;
@@ -93,7 +101,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
 }
 
 .image2 {
@@ -103,6 +110,7 @@ img {
     width: 50%;
 }
 
+/*image size on small screen max-width 600px and down*/
 @media (max-width: 600px) {
     img {
         width: 80%;
@@ -115,7 +123,6 @@ img {
     .right-image {
         margin-left: 5%;
     }
-
 }
 
 /*contacts page*/
@@ -131,6 +138,13 @@ img {
     background-size: cover;
     border-radius: 6px;
     box-shadow: 0 6px 10px 0 rgba(212, 162, 0, 0.19), 0 6px 20px 0 rgba(212, 162, 0, 0.19);
+}
+
+/*background color size on small screen max-width 600px and down*/
+@media (max-width: 600px) {
+    .book {
+        width: 100%;
+    }
 }
 
 /* social links*/
@@ -154,6 +168,13 @@ footer {
     background-size: cover;
     border-radius: 6px;
     box-shadow: 0 6px 10px 0 rgba(212, 162, 0, 0.19), 0 6px 20px 0 rgba(212, 162, 0, 0.19);
+}
+
+/*background color size on small screen max-width 600px and down*/
+@media (max-width: 600px) {
+    .form1 {
+        width: 100%;
+    }
 }
 
 input[type=submit] {
@@ -183,4 +204,11 @@ input[type=submit] {
 
 .thankyou>p {
     color: #eb9621;
+}
+
+@media (max-width: 600px) {
+    .thankyou {
+        height: 60%;
+        width: 100%;
+    }
 }
