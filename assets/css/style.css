@@ -63,3 +63,21 @@ h2 ,h3 {
       font-family: cinzel;
       color: #727272;
   }
+  /* image for hair and beard*/
+  img {
+      width: 400px;
+      border-radius: 8px;
+      box-shadow: 0 6px 10px 0 rgba(212, 162, 0, 0.19), 0 6px 20px 0 rgba(212, 162, 0, 0.19);
+  }
+
+  .container {
+      display: flex;
+  }
+
+  .left-image {
+      margin-left: 165px;
+  }
+
+  .right-image {
+      margin-left: 150px;
+  }
