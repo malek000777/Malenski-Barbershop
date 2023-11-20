@@ -7,3 +7,10 @@ h2 ,h3 {
     color: black;
     font-size: 35px;
 }
+/*logo*/
+#logo {
+    color: #eb9621;
+    font-size: 35px;
+    text-align: center;
+    background-color: #ffffff;
+}
