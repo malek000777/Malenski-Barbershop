@@ -35,6 +35,7 @@ h3 {
     color: rgb(138, 130, 130);
 }
 
+/*  for small screen size max-width 600px and down */
 @media (max-width: 600px) {
     .topmenu a {
         font-size: 100%;
@@ -84,14 +85,37 @@ img {
 
 .container {
     display: flex;
+    text-align: center;
 }
 
-.left-image {
-    margin-left: 165px;
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
 }
 
-.right-image {
-    margin-left: 150px;
+.image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+@media (max-width: 600px) {
+    img {
+        width: 80%;
+    }
+
+    .left-image {
+        margin-left: 2%;
+    }
+
+    .right-image {
+        margin-left: 5%;
+    }
+
 }
 
 /*contacts page*/
