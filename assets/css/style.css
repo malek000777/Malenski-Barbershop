@@ -116,3 +116,10 @@ h2 ,h3 {
       border-radius: 6px;
       box-shadow: 0 6px 10px 0 rgba(212, 162, 0, 0.19), 0 6px 20px 0 rgba(212, 162, 0, 0.19);
   }
+  input[type=submit] {
+      color: white;
+      background-color: #ff9f19;
+      font-size: 20px;
+      border-radius: 6px;
+      font-family: cinzel;
+  }
