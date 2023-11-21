@@ -20,19 +20,19 @@ This is consistent navigation bar design user freindly navigation.
 * The landing page includes a photograph with a text overlay to   make the user feel welcome.
   * This section introduces the user to Malenski barbershop.
 
-![Alt text](<assets/images/home image.png>)
+![hero image](<assets/images/home image.png>)
 
 ### Barbershop information
 
 * The Barbershop section will allow the user to see the benefits of going to trial haircuts at Malenski barbershop.
 
-![Image of the information for barbershop](<assets\images\information.png>)
+![Image of the information for barbershop](<assets/images/information.png>)
 
 ### Haircuts and price
 
 * Two pictures showing haircuts and beard shaving and prices of famous haircuts that are common.
   
-![ beard and hair cut with price of each](<assets\images\prices.png>)
+![ beard and hair cut with price of each](<assets/imagesp/rices.png>)
 
 ### contacts
 
@@ -40,13 +40,13 @@ This is consistent navigation bar design user freindly navigation.
 * How people can contact us through phone numbers and email to visit us and lociation.
   * find us on social media.
   
-![information for contacts, location and time](<assets\images\contacts.png>)
+![information for contacts, location and time](<assets/images/contacts.png>)
 
 ### signup
 
 * Signup form Name and Email to get 20% discount for your first haircut in Malenski barbershop.
   
-![signup form to get 20% off](<assets\images\signup.png>)
+![signup form to get 20% off](<assets/images/signup.png>)
 
 ### Validator Testing
 
@@ -59,7 +59,7 @@ This is consistent navigation bar design user freindly navigation.
 
   * Reports present the results of Lighthouse testing, which evaluates performance, accessibility, best practices, and SEO (Search Engine Optimization).
   
-![lighthouse](<assets\images\lighthouse.png>)
+![light house] (<assets\images\lighthouse.png>)
 
 ### Manual Testing
 * All links on every page have been succefuly submitted to confirmation the page.
