@@ -13,7 +13,7 @@
 * The top of page responsive navigation bar feature link to Home, Contacts and signup page.
 This is consistent navigation bar design user freindly navigation.
 
-![Navigation links](assets/images/navigation.png)
+![Navigation links](<assets/images/navigation.png>)
 
 ### The landing home page Image
 
@@ -31,6 +31,7 @@ This is consistent navigation bar design user freindly navigation.
 ### Haircuts and price
 
 * Two pictures showing haircuts and beard shaving and prices of famous haircuts that are common.
+  
 ![ beard and hair cut with price of each](<assets\images\prices.png>)
 
 ### contacts
@@ -38,11 +39,13 @@ This is consistent navigation bar design user freindly navigation.
 * A description of when we are open and close during the week.
 * How people can contact us through phone numbers and email to visit us and lociation.
   * find us on social media.
+  
 ![information for contacts, location and time](<assets\images\contacts.png>)
 
 ### signup
 
 * Signup form Name and Email to get 20% discount for your first haircut in Malenski barbershop.
+  
 ![signup form to get 20% off](<assets\images\signup.png>)
 
 ### Validator Testing
@@ -50,11 +53,16 @@ This is consistent navigation bar design user freindly navigation.
 * HTML
   * No errors were returned when passing through the official (<https://validator.w3.org/>)
 * CSS
-  * No errors were found when passing through the official (//jigsaw.w3.org/css-validator/)
+  * No errors were found when passing through the official (<https://jigsaw.w3.org/css-validator/>)
   
 ### Google Chrome Lighthouse Reports
 
+  * Reports present the results of Lighthouse testing, which evaluates performance, accessibility, best practices, and SEO (Search Engine Optimization).
+  
 ![lighthouse](<assets\images\lighthouse.png>)
+
+### Manual Testing
+* All links on every page have been succefuly submitted to confirmation the page.
 
 ## Deployment
 
