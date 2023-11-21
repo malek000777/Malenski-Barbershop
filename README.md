@@ -1,39 +1,82 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Malenski Barbershop
 
-Welcome,
+### Malenski barbershop is a platform for people who love to style their hair and want to do it cheaply. It is also a meeting place where people can socialize with other people with a nice atmosphere where everyone is welcome
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Testing webbsite in diffrent devices](<assets/images/Diffrent screens.png>)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+# Features
 
-## Codeanywhere Reminders
+### Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+#### Navigation Bar
 
-`python3 -m http.server`
+* The top of page responsive navigation bar feature link to Home, Contacts and signup page.
+This is consistent navigation bar design user freindly navigation.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+![Navigation links](assets/images/navigation.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### The landing home page Image
 
-`http_server`
+* The landing page includes a photograph with a text overlay to   make the user feel welcome.
+  * This section introduces the user to Malenski barbershop.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Alt text](<assets/images/home image.png>)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Barbershop information
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* The Barbershop section will allow the user to see the benefits of going to trial haircuts at Malenski barbershop.
 
-To log into the Heroku toolbelt CLI:
+![Image of the information for barbershop](<assets\images\information.png>)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Haircuts and price
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+* Two pictures showing haircuts and beard shaving and prices of famous haircuts that are common.
+![ beard and hair cut with price of each](<assets\images\prices.png>)
 
----
+### contacts
 
-Happy coding!
+* A description of when we are open and close during the week.
+* How people can contact us through phone numbers and email to visit us and lociation.
+  * find us on social media.
+![information for contacts, location and time](<assets\images\contacts.png>)
+
+### signup
+
+* Signup form Name and Email to get 20% discount for your first haircut in Malenski barbershop.
+![signup form to get 20% off](<assets\images\signup.png>)
+
+### Validator Testing
+
+* HTML
+  * No errors were returned when passing through the official (<https://validator.w3.org/>)
+* CSS
+  * No errors were found when passing through the official (//jigsaw.w3.org/css-validator/)
+  
+### Google Chrome Lighthouse Reports
+
+![lighthouse](<assets\images\lighthouse.png>)
+
+## Deployment
+
+* In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Main Branch
+* Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The live link can be found here - (<https://malek000777.github.io/Malenski-Barbershop/>)
+
+## Credits
+
+### Content
+
+* Idea and text by myself
+* Some inspration from walkthrough project "Love Running"
+* The icons in the footer were taken from (<https://fontawesome.com/>)
+
+### Media
+
+* Hero image: (<https://www.pexels.com/sv-se/foto/borste-teknologi-skarm-inomhus-1570806>)
+  * image1:(<https://www.pexels.com/sv-se/foto/man-person-huvud-barberare-12074386>)
+    * image 2:(<https://www.pexels.com/sv-se/foto/man-modell-hipster-stil-3998426>)
+
+### Inspiration and tutorials used from
+
+* (<https://www.w3schools.com/>)
